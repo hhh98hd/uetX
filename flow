@@ -1,0 +1,31 @@
+
+
+
+
+1. Task 1
+// clean up
+git pull
+git branch
+git status
+
+// Modify
+
+
+
+// Commit
+
+git difftool -d 	// Compare working copy vs Local repo
+
+
+git add .
+
+git pull 		// get latest remote repo => local repo
+// fix conflict
+
+
+git commit 		// add commit message
+
+
+git push origin master
+
+
